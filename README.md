@@ -1,5 +1,6 @@
 # NEWS-app1
 Figma:https://www.figma.com/design/0omGfrEouPiaOWYjsQLWDN/news-app1?node-id=0-1&t=UECzj5lQqkbY5TOl-1
+Presentation:https://www.canva.com/design/DAG6LpvvMW4/2iivbxvnVLE51eq3-nEIag/edit?utm_content=DAG6LpvvMW4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
